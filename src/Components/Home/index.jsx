@@ -1,8 +1,6 @@
 import React, { useEffect, useState } from "react";
 import AutoStoriesIcon from "@mui/icons-material/AutoStories";
 import CircularProgress from "@mui/material/CircularProgress";
-import Skeleton from '@mui/material/Skeleton';
-import Box from '@mui/material/Box';
 
 
 function Home() {
